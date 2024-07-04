@@ -1,5 +1,8 @@
 [java.pdf](https://github.com/user-attachments/files/16093301/java.pdf)
 
+[Java lab programs.pdf](https://github.com/user-attachments/files/16100487/Java.lab.programs.pdf)
+
+
 import java.util. Scanner;
 
 public class Salary {
