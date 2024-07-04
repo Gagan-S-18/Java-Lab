@@ -16,21 +16,21 @@ Scanner inp=new Scanner (System.in);
 
 System.out.print("Enter Basic Salary ");
 
-Sala inp. next Double();
+sala=inp.nextDouble();
 
 hou = 15* sala;
 
-trans. 25 * sala;
+trans=.25 * sala;
 
 ta=03* sala;
 
-gross = Chou + trans + sala);
+gross = (hou + trans + sala);
 
 net = gross-ta;
 
 System.out.println("The gross pay is: " + gross);
 
-System.out.println("the net pay is: +net);
+System.out.println("the net pay is:" +net);
 }
 }
 
